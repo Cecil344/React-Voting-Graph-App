@@ -1,0 +1,31 @@
+.GraphBar {
+    display: flex;
+    justify-content: flex-start;
+    padding: 25px;
+    border: blue 2px solid;
+    margin: 0 auto;
+    width: 500px;
+    margin-top: 10px;
+
+}
+
+.label {
+    border: silver 1px solid;
+    width: 70px;
+    margin-right: 20px;
+}
+
+
+.value {
+    border: 1px solid;
+    width: 100px;
+    text-align: center;
+}
+.App {
+  border: black 3px solid;
+  text-align: center;
+}
+button {
+  padding: 2px;
+  margin: 10px;
+}
